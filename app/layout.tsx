@@ -7,9 +7,9 @@ import { Toaster } from "@/components/ui/toaster"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Prism Social - Connect with vibrant experiences",
-  description: "A modern social media platform with animated colors and real-time interactions",
-    generator: 'v0.dev'
+  title: "Prism Social - Social Media App Demo",
+  description: "A modern social media platform demo with animated colors and real-time interactions",
+  
 }
 
 export default function RootLayout({
